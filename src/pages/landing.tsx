@@ -33,7 +33,7 @@ const Landing = () => {
             </Button>
         </form>
         <img
-          src="../../public/banner.png" // replace with 2 in small screens
+          src="/banner.png" // replace with 2 in small screens
           className="w-full my-11 md:px-11"
         />
         <Accordion type="multiple" className="w-full md:px-11">

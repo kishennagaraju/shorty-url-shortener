@@ -24,7 +24,7 @@ const Header = () => {
       <>
           <nav className='p-4 flex justify-between items-center'>
               <Link to='/'>
-                  <img src='../../public/logo.png' className='h-20' alt='Url Shortener'/>
+                  <img src='/logo.png' className='h-20' alt='Url Shortener'/>
               </Link>
 
               <div>
