@@ -13,4 +13,8 @@ export default defineConfig({
         outDir: path.join(__dirname, "dist"),
         emptyOutDir: true
     },
+    server: {
+        host: true,
+        port: 80
+    }
 })
