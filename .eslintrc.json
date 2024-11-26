@@ -1,0 +1,16 @@
+{
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "tsx": true
+    }
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "files": ["./src/**/*.{js,jsx,mjs,cjs,ts,tsx}"],
+  "plugins": [
+    "react"
+  ]
+}
